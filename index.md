@@ -1,8 +1,6 @@
 ## Sobre mí.
 
-You can use the [editor on GitHub](https://github.com/myji07/portafolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Me encanta apostar por la idea: "Todos podemos aprender de todos". Mi pasión es que a través de un proceso de análisis, pueda llevar a la realidad mis ideas, poner mi creatividad en ello y como resultado resolver problemas reales.
 
 ## Portafolio
 
