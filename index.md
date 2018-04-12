@@ -1,4 +1,4 @@
-## Sobre mí.
+## Sobre mí
 
 Me encanta apostar por la idea: "Todos podemos aprender de todos". Mi pasión es que a través de un proceso de análisis, pueda llevar a la realidad mis ideas, poner mi creatividad en ello y como resultado resolver problemas reales.
 
@@ -12,3 +12,5 @@ Me encanta apostar por la idea: "Todos podemos aprender de todos". Mi pasión es
 
 ### [GiffyCinema](https://github.com/myji07/hackathon-movies)
 ![giffycinemas](https://user-images.githubusercontent.com/32876178/38668478-a3adbfb8-3e09-11e8-951c-b0ab55e4756c.png)
+
+## Contacto
