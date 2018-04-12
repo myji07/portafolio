@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Sobre mí.
 
 You can use the [editor on GitHub](https://github.com/myji07/portafolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Portafolio
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [Save the Children](https://github.com/myji07/save-the-children)
+![save the children](https://user-images.githubusercontent.com/32876178/38670012-4d802a46-3e0d-11e8-94f8-90c38d6b8dd1.png)
 
-```markdown
-Syntax highlighted code block
+### [Travelus](https://github.com/myji07/travelus-co)
+![travelus](https://user-images.githubusercontent.com/32876178/38665325-c04f0ff8-3e01-11e8-9ceb-ee3c118aedf6.png)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/myji07/portafolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### [GiffyCinema](https://github.com/myji07/hackathon-movies)
+![giffycinemas](https://user-images.githubusercontent.com/32876178/38668478-a3adbfb8-3e09-11e8-951c-b0ab55e4756c.png)
